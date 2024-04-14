@@ -1,1 +1,1 @@
-# JavaScript_Complete_YouTube
+Basic javascript concepts alongwith some projects
